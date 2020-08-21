@@ -1,5 +1,5 @@
 ---
-title: JAMstack Comments Engine - about
+title: About Nolan
 layout: layouts/base.njk
 ---
 
