@@ -12,7 +12,8 @@ Email: officialstackemup@gmail.com
 
 Cell Phone: 951.303.4347
 
-Stay Coding-
+Stay Coding -
+
 Nolan(Nolant108)
 
 ## Life Accomplishments
