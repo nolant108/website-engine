@@ -6,13 +6,14 @@ layout: layouts/base.njk
 # About Me
 
 Hey, :) 
-Thanks for checking in on whats about me Nolan, Currently I am doing well... Ok Ok Ok, I doing awesome and I thank you for checking on me. You can see some life accomplishments down below and so much more. Inquirey about my resume go [Here](/resume). :)
+Thanks for checking in on whats about me Nolan, Currently I am doing well... Ok Ok Ok, I doing awesome and I thank you for checking on me. You can see some life accomplishments down below and so much more. Inquiry about my resume go [Here](/resume). :)
 
 Email: officialstackemup@gmail.com
+
 Cell Phone: 951.303.4347
 
 Stay Coding-
-    Nolan(Nolant108)
+Nolan(Nolant108)
 
 ## Life Accomplishments
 
