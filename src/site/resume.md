@@ -14,20 +14,20 @@ Computers, Computer Repair, Coding (JAVA, D.B. management, Java, Python, C, C++.
 
 ## Experience
 
-### Sunridge Community Church / Video Photographer
+#### Sunridge Community Church / Video Photographer
 
 September  2015 - December 2016,  42299 Winchester Rd, Temecula, CA 92590
-    - (153 volunteer hours) 
-    - Was trained on how to use a camera and camera functions
+1. (153 volunteer hours) 
+2. Was trained on how to use a camera and camera functions
 
-### Sunridge Community Church / Director of Video Productions
+#### Sunridge Community Church / Director of Video Productions
 
 December  2016 - May 2020,  42299 Winchester Rd, Temecula, CA 92590
-    - (168 volunteer hours) 
-    - Trained on switching cameras
-    - Produced the Sunday Episodes
-    - Edited the Episodes
-    - Trained New Volunteers
+1. (168 volunteer hours) 
+2. Trained on switching cameras
+3. Produced the Sunday Episodes
+4. Edited the Episodes
+5. Trained New Volunteers
 
 
 ## Education
