@@ -11,17 +11,16 @@ All comments are posted with a form and once approved, rendered directly onto th
 
 The site is a living example and you can try commenting on the [pages](/) listed on the home page. (The [site owner](https://twitter.com/philhawksworth) will get a notification of your comment via Slack, and will need to approve your comment before it shows up, so be patient).
 
-## How do the comments work?
+## Life Accomplishments
 
-Rather than using a third party comments service which might inject comments (and other things?!) into your site using JavaScript, this approach uses traditional http form posts and continuous integration to automatically build your comments directly into your site.
-
-The flow goes like this:
-
-1. A user submits a comment to the comments queue form on your page. That form posts to the [form handling](https://www.netlify.com/docs/form-handling/) facility in Netlify where the site is hosted.
-2. The form submission triggers a call to a [Lambda function](https://www.netlify.com/docs/functions) which passes the details of the comment along to Slack where a site administrator can review the comment, and click a button to accept or reject the comment.
-3. Rejected comments get deleted from the comment queue
-4. Accepted comments get posted into the approved comments form, which automatically triggers a build and deployment of the site. Accepted comments are also deleted from the queue.
-5. The site build pulls all the approved comments from the Netlify submissions API, and then generates all of the pages (complete with their comments) with a static site generator (the simple and elegant [11ty](https://www.11ty.io/))
+1. April 2014: Started [Youtube Channel](https://youtube.com/OfficialStackEmUp)
+2. October 2014: Recived Tech Ham Radio Licence
+3. October 2018: Passed General Ham Licence Test
+4. August 2018: Joined National Honor Society
+5. June 2020: Recived "Scholar Of The Year: Techology 2020" from RCHS
+6. July 2020: Solo'd in a Cessna plane(N1702E)
+7. August 2020: Recived Drivers Licence
+8. ...
 
 
 
