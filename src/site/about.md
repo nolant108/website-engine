@@ -5,15 +5,15 @@ layout: layouts/base.njk
 
 # About Me
 
-This site is an example of how a [JAMstack](https://www.jamstack.org) site can implement comments.
+Hey, :) 
+Thanks for checking in on whats about me Nolan, Currently I am doing well... Ok Ok Ok, I doing awesome and I thank you for checking on me. You can see some life accomplishments down below and so much more.
 
-All comments are posted with a form and once approved, rendered directly onto the site via a build. No JavaScript is required to pull them into your browser for rendering.
-
-The site is a living example and you can try commenting on the [pages](/) listed on the home page. (The [site owner](https://twitter.com/philhawksworth) will get a notification of your comment via Slack, and will need to approve your comment before it shows up, so be patient).
+Stay Coding-
+    Nolan(Nolant108)
 
 ## Life Accomplishments
 
-1. April 2014: Started [Youtube Channel](https://youtube.com/OfficialStackEmUp)
+1. May 2014: Started [Youtube Channel](https://youtube.com/OfficialStackEmUp)
 2. October 2014: Recived Tech Ham Radio Licence
 3. October 2018: Passed General Ham Licence Test
 4. August 2018: Joined National Honor Society
