@@ -3,7 +3,7 @@ title: About Nolan
 layout: layouts/base.njk
 ---
 
-# What is this anyway?
+# About Me
 
 This site is an example of how a [JAMstack](https://www.jamstack.org) site can implement comments.
 
