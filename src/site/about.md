@@ -23,9 +23,10 @@ Nolan(Nolant108)
 3. October 2018: Passed General Ham Licence Test
 4. August 2018: Joined National Honor Society
 5. June 2020: Recived "Scholar Of The Year: Techology 2020" from RCHS
-6. July 2020: Solo'd in a Cessna plane(N1702E)
-7. August 2020: Recived Drivers Licence
-8. More...
+6. June 2020: Accepted into National Society of HS Scholars
+7. July 2020: Solo'd in a Cessna plane(N1702E)
+8. August 2020: Recived Drivers Licence
+9. More...
 
 
 
