@@ -10,7 +10,7 @@ Thanks for checking in on whats about me Nolan, Currently I am doing well... Ok 
 
 Email: officialstackemup@gmail.com
 
-Cell Phone: 951.303.4347
+Cell Phone: 951.290.8536
 
 Stay Coding -
 
