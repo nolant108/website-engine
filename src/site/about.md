@@ -18,7 +18,7 @@ Nolan(Nolant108)
 
 ## Life Accomplishments
 
-1. May 2014: Started [Youtube Channel](https://youtube.com/OfficialStackEmUp)
+1. May 2014: Started [Youtube Channel](https://youtube.com/Nolant108)
 2. October 2014: Recived Tech Ham Radio Licence
 3. October 2018: Passed General Ham Licence Test
 4. August 2018: Joined National Honor Society
