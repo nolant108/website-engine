@@ -26,7 +26,7 @@ layout: layouts/base.njk
 
 ## CryptoCurrency
 
-<a href="https://github.com/nolant108/CoinBear-Python-Version-/archive/main.zip" download>Plugin: Egg-ThrowingCoinBear Python Main Branch</a>
+<a href="https://github.com/nolant108/CoinBear-Python-Version-/archive/main.zip" download>CoinBear Python Main Branch</a>
 
 <a href="https://github.com/nolant108/CoinBear-Java/archive/main.zip" download>CoinBear Java Main Branch</a>
 
@@ -81,5 +81,14 @@ table, th, td {
     <td>Temecula Technology</td>
     <td>7961ada9a6e7f38e88faf355b04d95886d7f3c40a476e0a06dd7f701458a35a6</td>
 </table>
+
+
+
+<figure>
+    <blockquote>
+        <p>All downloads are with the perm files. The files need to be converted to the file format(Ex: .jar , .js, etc...)</p>
+    </blockquote>
+</figure>
+
 </body>
 </html>
