@@ -13,3 +13,4 @@ layout: layouts/base.njk
 ## HTML
 
 ## CryptoCurrency
+<a href="myFile.js" download>Click to Download</a>
