@@ -18,6 +18,15 @@ layout: layouts/base.njk
 
 
 ### SHA256 Hashes
-|   Code   	|                           SHA256 Hashed                          	|
-|:--------:	|:----------------------------------------------------------------:	|
-| CoinBear 	| 39fd0d4d003aa02abf2e5c570fda829de0a7adb59a67eed36cf3c50956f5b262 	|
+<html>
+<table>
+  <tr>
+    <th>Code</th>
+    <th>SHA256 Hash</th>
+  </tr>
+  <tr>
+    <td>CoinBear Py</td>
+    <td>39fd0d4d003aa02abf2e5c570fda829de0a7adb59a67eed36cf3c50956f5b262</td>
+  </tr>
+</table>
+</html>
