@@ -6,4 +6,4 @@ layout: layouts/base.njk
 # Projects
 
 
-[JarProjects](/jars/jar.md)
+[JarProjects](/src/site/jar/jar.md)
