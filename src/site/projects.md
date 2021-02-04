@@ -29,8 +29,6 @@ table, th, td {
 </head>
 <body>
 
-<h1>The table element</h1>
-
 <table>
   <tr>
     <th>Code</th>
