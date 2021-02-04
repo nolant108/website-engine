@@ -14,7 +14,7 @@ layout: layouts/base.njk
 
 ## CryptoCurrency
 <html>
-<a href="https://github.com/nolant108/CoinBear-Python-Version-/archive/main.zip" download>CoinBear Python Main Branch</a>
+<a href="https://nolant108.tech/files/CoinBear-Python-Version--main.zip" download>CoinBear Python Main Branch</a>
 </htmlb >
 
 Sha256 Hash:
