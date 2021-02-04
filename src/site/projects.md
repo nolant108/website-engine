@@ -18,7 +18,19 @@ layout: layouts/base.njk
 
 
 ### SHA256 Hashes
+<!DOCTYPE html>
 <html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>The table element</h1>
+
 <table>
   <tr>
     <th>Code</th>
@@ -29,4 +41,6 @@ layout: layouts/base.njk
     <td>39fd0d4d003aa02abf2e5c570fda829de0a7adb59a67eed36cf3c50956f5b262</td>
   </tr>
 </table>
+
+</body>
 </html>
