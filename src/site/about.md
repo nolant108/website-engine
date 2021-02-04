@@ -26,7 +26,7 @@ Nolan(Nolant108)
 6. June 2020: Accepted into National Society of HS Scholars
 7. July 2020: Solo'd in a Cessna plane(N1702E)
 8. August 2020: Recived Drivers Licence
-9. Created the company: [Temecula Technology Solutions](https://temeculatechnology.com)
+9. Augest 2020: Created the company: [Temecula Technology Solutions](https://temeculatechnology.com)
 10. More Comming Soon!...
 
 
