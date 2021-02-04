@@ -76,10 +76,10 @@ table, th, td {
     <td>MagicalDreams Bot</td>
     <td>5be4a7352d7d4ab0ddbb8e5486815d378ce7522b40e50e1800f1b075b0de6dc4</td>
   </tr>
-    </tr>
     <tr>
     <td>Temecula Technology</td>
     <td>7961ada9a6e7f38e88faf355b04d95886d7f3c40a476e0a06dd7f701458a35a6</td>
+    </tr>
 </table>
 
 <p>_____________________________________________________________________________</p>
