@@ -10,7 +10,7 @@ Thanks for checking in on whats about me Nolan, Currently I am doing well... Ok 
 
 Email: officialstackemup@gmail.com
 
-Cell Phone: 951.290.8536
+Cell Phone(Work Phone): 951.290.8536
 
 Stay Coding -
 
@@ -26,7 +26,8 @@ Nolan(Nolant108)
 6. June 2020: Accepted into National Society of HS Scholars
 7. July 2020: Solo'd in a Cessna plane(N1702E)
 8. August 2020: Recived Drivers Licence
-9. More...
+9. Created the company: [Temecula Technology Solutions](https://temeculatechnology.com)
+10. More Comming Soon!...
 
 
 
