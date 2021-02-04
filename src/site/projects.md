@@ -6,4 +6,10 @@ layout: layouts/base.njk
 # Projects
 
 
-[JarProjects](/src/site/jar/jar.md)
+## Minecraft
+
+## Java
+
+## HTML
+
+## CryptoCurrency
