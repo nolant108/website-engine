@@ -12,7 +12,7 @@ templateEngineOverride: njk, md
   {{ content | safe }}
   <div class="footnote">
     <p>
-      Feel free to comment on this page using the form below. Keep in mind though, that this is an example site, so it's not the place to make a big grand political gesture. Try it out, but be nice. (All comments are <a href="/about">moderated</a> anyway)
+      (All comments are moderated)
     </p>
   </div>
 </main>
