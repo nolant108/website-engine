@@ -8,9 +8,13 @@ Soooo Yahh, I went to Disneyland Resort during the covid 19 Pandemic, But i thin
 
 So I decided to get a quick pic as this maybe the last time i ever see the ride in my life :(
 
-<img src="...\src\site\posts\2021\05\IMG_8964.JPG" alt="image" loading="lazy">
----
-<img src="cdn/disney/IMG_8964.JPG" alt="image" loading="lazy">
+![splash](/cdn/disney/IMG_8964.JPG)
+
+TEST
+
+<img src="/cdn/disney/IMG_8964.JPG"
+     alt="splash"
+     style="float: left; margin-right: 10px;" />
 
 LOL, I was able to ride the ride about 2 times pretty quickly
 
