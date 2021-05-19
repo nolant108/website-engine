@@ -8,11 +8,7 @@ Soooo Yahh, I went to Disneyland Resort during the covid 19 Pandemic, But i thin
 
 So I decided to get a quick pic as this maybe the last time i ever see the ride in my life :(
 
-![splash](/cdn/disney/IMG_8964.JPG)
-
-TEST
-
-<img src="/cdn/disney/IMG_8964.JPG"
+<img src="https://github.com/nolant108/website-engine/blob/master/cdn/disney/IMG_8964.JPG?raw=true"
      alt="splash"
      style="float: left; margin-right: 10px;" />
 
