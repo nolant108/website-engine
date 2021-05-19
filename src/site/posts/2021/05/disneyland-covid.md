@@ -10,7 +10,7 @@ So I decided to get a quick pic as this maybe the last time i ever see the ride 
 
 <img src="...\src\site\posts\2021\05\IMG_8964.JPG" alt="image" loading="lazy">
 ---
-<img src="cdn\disney\IMG_8964.JPG" alt="image" loading="lazy">
+<img src="cdn/disney/IMG_8964.JPG" alt="image" loading="lazy">
 
 LOL, I was able to ride the ride about 2 times pretty quickly
 
