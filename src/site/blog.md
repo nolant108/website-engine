@@ -11,4 +11,4 @@ layout: layouts/base.njk
 1. Disneyland COVID-19 Edition
 
 ### 2020
-1. [Main Test](/posts/main.md)
+1. [Main Test](/posts/main)
