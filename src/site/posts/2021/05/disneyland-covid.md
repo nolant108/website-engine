@@ -18,3 +18,9 @@ LOL, I was able to ride the ride about 2 times pretty quickly
 
 ### Timing
 Me and my father decided to stay the night in a nearby hotel for the nightbefore, so we would not have to be driving the next day
+
+<br>
+
+### Queues
+The Queues were petty nice, not overly long
+1. 50% of the rides <= 15 Minutes 
