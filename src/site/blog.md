@@ -8,7 +8,7 @@ layout: layouts/base.njk
 ## Posts
 
 ### 2021
-1. Disneyland COVID-19 Edition
+1. [Disneyland COVID-19 Edition](/posts/2021/disneyland-covid)
 
 ### 2020
-1. [Main Test](/posts/main)
+1. [Main Test](/posts/2020/main)
