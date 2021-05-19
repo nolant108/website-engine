@@ -1,7 +1,6 @@
 ---
-title: Disneyland Covid-19
+title: Disneyland Covid19
 date: 2021-05-19
 ---
 
-# Disneyland Covid-19 Edition
 
