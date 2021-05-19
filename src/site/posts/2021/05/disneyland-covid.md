@@ -14,6 +14,9 @@ So I decided to get a quick pic as this maybe the last time i ever see the ride 
      width="200" 
      height="300" />
 
+
+
+
 LOL, I was able to ride the ride about 2 times pretty quickly
 
 ### Timing
