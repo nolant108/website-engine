@@ -12,3 +12,4 @@ layout: layouts/base.njk
 
 ### 2020
 1. [Main Test](/posts/2020/02/main)
+2. [CoinBear Crypto Announcement!](/posts/2020/07/coinbear-announcement)
