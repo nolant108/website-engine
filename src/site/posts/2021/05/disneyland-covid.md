@@ -21,12 +21,32 @@ Me and my father decided to stay the night in a nearby hotel for the nightbefore
 
 <br>
 
-<img src="cdn/disney/IMG_8950.jpg"
+### Queues
+The Queues were petty nice, not overly long
+1. 50% <= 15 Minutes 
+2. 25% >= 30 Minutes
+3. 15% >= 1 Hr
+4. 10% >= 1.5 hrs
+
+### Lands
+
+#### Star Wars Land
+The Lines there were pretty good, I also got to try the Green/Blue Milk (It was very sweet)
+<img src="https://github.com/nolant108/website-engine/blob/master/cdn/disney/B5B526CE-6F3C-41FE-B6A9-88A7D51EF28C.JPG?raw=true"
      alt="splash"
      style="float: left; margin-right: 10px;"
      width="200" 
      height="300" />
 
-### Queues
-The Queues were petty nice, not overly long
-1. 50% of the rides <= 15 Minutes 
+Here is a photo of me infront of a Upsilon-class space craft
+(yes im a star wars fan)
+<br>
+
+#### Frontier / Adventure Land
+Both of the lands were pretty good, in a sense that the lines and food was good
+
+#### Tomorrow Land
+I was able to ride Star Tours 3 times in 1 hr (yah 1 hr)
+
+#### Food
+The food was all mobile order(From the DL App)
