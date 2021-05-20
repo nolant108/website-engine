@@ -21,6 +21,12 @@ Me and my father decided to stay the night in a nearby hotel for the nightbefore
 
 <br>
 
+<img src="cdn\disney\IMG_8950.jpg"
+     alt="splash"
+     style="float: left; margin-right: 10px;"
+     width="200" 
+     height="300" />
+
 ### Queues
 The Queues were petty nice, not overly long
 1. 50% of the rides <= 15 Minutes 
