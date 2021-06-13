@@ -14,10 +14,18 @@ Computers, Computer Repair, Coding (JAVA, D.B. management, Java, Python, C, C++.
 
 ## Experience
 
+### Target Corp / Fufillment Expert
+
+June 2021 - Current,  29676 Rancho California Rd, Temecula, CA 92591
+1. Fufillment Expert
+2. Shipping
+3. Drive Up and Go Service
+
 ### Albertsons Companies Inc. LLC / Courtesy Clerk
 
-September  2020 - Current,  31960 Temecula Pkwy Temecula, CA 92592
+September  2020 - June 2021,  31960 Temecula Pkwy Temecula, CA 92592
 1. Courtesy Clerk
+2. Front End Service
 
 ### Sunridge Community Church / Director of Video Productions
 
