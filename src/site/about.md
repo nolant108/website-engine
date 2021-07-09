@@ -8,7 +8,9 @@ layout: layouts/base.njk
 Hey, :) 
 Thanks for checking in on whats about me Nolan, Currently I am doing well... Ok Ok Ok, I doing awesome and I thank you for checking on me. You can see some life accomplishments down below and so much more. Inquiry about my resume go [Here](/resume). :)
 
-Email: officialstackemup@gmail.com
+Email: 
+Personal: officialstackemup@gmail.com (Any work Emails that come thru this server will be auto deleted)
+Work: nolan@nolant108.tech
 
 Cell Phone(Work Phone): 951.290.8536
 
